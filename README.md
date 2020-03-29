@@ -11,4 +11,4 @@ OracleCore3EF64Sample sample aplication targeting **netcoreapp3.1** framework (S
 It's recompilation of offical **Oracle.ManagedDataAccess.EntityFramework version 19.6.0 (net45) NuGet** and *Oracle.ManagedDataAccess.EntityFramework.dll assembly* (v. 6.122.19.1) using *Oracle.ManagedDataAccess.Core NuGet* instead of *Oracle.ManagedDataAccess NuGet*.  
 This NuGet is not included in this repo (due to license), but it is in my private repo.  
 
-To compile this sample you must add *Oracle.ManagedDataAccess.EntityFramework.Core.19.6.0.nupkg* to .\Packages folder and edit connection string in *Program.cs* source file.
+To compile this sample you must add *Oracle.ManagedDataAccess.EntityFramework.Core.19.6.0.nupkg* to **.\Packages** folder and edit connection string in *Program.cs* source file.
