@@ -2,13 +2,13 @@
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
-    <TargetFramework>netcoreapp3.1</TargetFramework>
+	<TargetFramework>net8.0</TargetFramework>
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="EntityFramework" Version="6.4.0" />
-    <PackageReference Include="Oracle.ManagedDataAccess.Core" Version="2.19.60" />
-    <PackageReference Include="Oracle.ManagedDataAccess.EntityFramework.Core" Version="19.6.0" />
+    <PackageReference Include="EntityFramework" Version="6.4.4" />
+    <PackageReference Include="Oracle.ManagedDataAccess.Core" Version="3.21.130" />
+    <PackageReference Include="Oracle.ManagedDataAccess.EntityFramework.Core" Version="21.9.8" />
   </ItemGroup>
 
 </Project>
