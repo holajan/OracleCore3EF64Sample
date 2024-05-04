@@ -7,8 +7,8 @@
 
   <ItemGroup>
     <PackageReference Include="EntityFramework" Version="6.4.4" />
-    <PackageReference Include="Oracle.ManagedDataAccess.Core" Version="3.21.130" />
-    <PackageReference Include="Oracle.ManagedDataAccess.EntityFramework.Core" Version="21.9.8" />
+    <PackageReference Include="Oracle.ManagedDataAccess.Core" Version="3.21.140" />
+    <PackageReference Include="Oracle.ManagedDataAccess.EntityFramework.Core" Version="21.9.803" />
   </ItemGroup>
 
 </Project>
